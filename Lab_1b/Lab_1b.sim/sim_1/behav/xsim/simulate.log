@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time = 0: switches_inputs = 0000000000000000, led = 0000000000000000
+Time = 62000: switches_inputs = 1111111111111111, led = 1111111111111111
+Time = 72000: switches_inputs = 0101010101010101, led = 0101010101010101
+Time = 82000: switches_inputs = 1010101010101010, led = 1010101010101010
+Time = 92000: switches_inputs = 1100110011001100, led = 1100110011001100
+Time = 102000: switches_inputs = 0011001100110011, led = 0011001100110011
+$stop called at time : 162 ns : File "/home/jonesp/Downloads/School/453/Lab_1b/lab_1b_top_level_tb.sv" Line 77
+INFO: xsimkernel Simulation Memory Usage: 483472 KB (Peak: 540744 KB), Simulation CPU Usage: 4430 ms

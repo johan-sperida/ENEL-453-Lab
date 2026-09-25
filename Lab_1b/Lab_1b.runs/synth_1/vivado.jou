@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.1 (64-bit)
+# SW Build 6140274 on Wed May 21 22:58:25 MDT 2025
+# IP Build 6138677 on Thu May 22 03:10:11 MDT 2025
+# SharedData Build 6139179 on Tue May 20 17:58:58 MDT 2025
+# Start of session at: Mon Sep 21 12:09:00 2026
+# Process ID         : 89692
+# Current directory  : /home/jonesp/Downloads/School/453/Lab_1b/Lab_1b.runs/synth_1
+# Command line       : vivado -log lab_1b_top_level.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source lab_1b_top_level.tcl
+# Log file           : /home/jonesp/Downloads/School/453/Lab_1b/Lab_1b.runs/synth_1/lab_1b_top_level.vds
+# Journal file       : /home/jonesp/Downloads/School/453/Lab_1b/Lab_1b.runs/synth_1/vivado.jou
+# Running On         : fedora
+# Platform           : Fedora
+# Operating System   : Fedora Linux 44 (KDE Plasma Desktop Edition)
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i7-1250U
+# CPU Frequency      : 643.696 MHz
+# CPU Physical cores : 10
+# CPU Logical cores  : 12
+# Host memory        : 16359 MB
+# Swap memory        : 8589 MB
+# Total Virtual      : 24949 MB
+# Available Virtual  : 16176 MB
+#-----------------------------------------------------------
+source lab_1b_top_level.tcl -notrace
