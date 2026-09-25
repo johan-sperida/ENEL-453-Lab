@@ -1,0 +1,15 @@
+0.7
+2020.2
+May 22 2025
+00:13:55
+C:/453_labs/lab_2/bin_to_bcd.sv,1790315250,systemVerilog,,C:/453_labs/lab_2/digit_multiplexor.sv,,bin_to_bcd,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/digit_multiplexor.sv,1789749451,systemVerilog,,C:/453_labs/lab_2/lab_2_top_level.sv,,digit_multiplexor,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/lab_2.sim/sim_1/behav/xsim/glbl.v,1741209010,verilog,,,,glbl,,uvm,,,,,,
+C:/453_labs/lab_2/lab_2.srcs/sim_1/new/mux_tb.sv,1790359043,systemVerilog,,,,mux_tb,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/lab_2.srcs/sources_1/new/mux.sv,1790359335,systemVerilog,,C:/453_labs/lab_2/seven_segment_decoder_Lab2.sv,,mux,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/lab_2_top_level.sv,1790359747,systemVerilog,,C:/453_labs/lab_2/lab_2.srcs/sources_1/new/mux.sv,,lab_2_top_level,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/lab_2_top_level_tb.sv,1790361853,systemVerilog,,,,lab_2_top_level_tb,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/seven_segment_decoder_Lab2.sv,1789758547,systemVerilog,,C:/453_labs/lab_2/seven_segment_digit_selector.sv,,seven_segment_decoder,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/seven_segment_digit_selector.sv,1789749451,systemVerilog,,C:/453_labs/lab_2/seven_segment_display_subsystem.sv,,seven_segment_digit_selector,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/seven_segment_display_subsystem.sv,1789749451,systemVerilog,,C:/453_labs/lab_2/switch_logic.sv,,seven_segment_display_subsystem,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
+C:/453_labs/lab_2/switch_logic.sv,1789752316,systemVerilog,,C:/453_labs/lab_2/lab_2_top_level_tb.sv,,switch_logic,,uvm,../../../../../../Xilinx/2025.1/Vivado/data/rsb/busdef,,,,,
